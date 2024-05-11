@@ -1,4 +1,4 @@
-class Yourprogram < Formula
+class Mock-Server < Formula
   desc "A mock server"
   homepage "https://github.com/hellodeveye/mock-server"
   url "https://github.com/hellodeveye/mock-server/releases/download/v0.1.0/mock-server_Darwin_x86_64.tar.gz"
